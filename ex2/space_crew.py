@@ -129,7 +129,7 @@ if __name__ == "__main__":
                     age=22,
                     specialization="Science",
                     years_experience=1,
-                ),
+                )
             ],
         )
     except ValidationError as e:
